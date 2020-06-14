@@ -1,2 +1,2 @@
-# Ajax1
-practica con ajax
+# Ajax
+##Using Ajax
